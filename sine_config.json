@@ -1,6 +1,6 @@
   {
-    "tweenDuration": 0.5,
+    "tweenDuration": 2,
     "waveOffset": 0.2,
-    "transparencyMin": 0,
+    "transparencyMin": 0.5,
     "transparencyMax": 1
   }
